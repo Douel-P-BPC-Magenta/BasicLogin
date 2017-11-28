@@ -3,7 +3,7 @@
 $uname = $_POST['username'];
 $pass = $_POST['password'];
 
-if($uname=="deb" && $pass == "dob")
+if($uname=="boi" && $pass == "iob")
 	echo "GJ BOI";
 		
 else 
